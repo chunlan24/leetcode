@@ -1,4 +1,5 @@
-public boolean searchMatrix(int[][] matrix, int target) { 
+public class SearchMatrix_1_1 {
+    public boolean searchMatrix(int[][] matrix, int target) { 
     if(matrix == null || matrix.length==0 || matrix[0].length==0)  
             return false;  
         int l = 0;  
@@ -35,4 +36,5 @@ public boolean searchMatrix(int[][] matrix, int target) {
             }  
         }     
         return false;  
-    }  
+    } 
+} 

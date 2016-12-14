@@ -1,4 +1,4 @@
-public class Solution {
+public class PascalsTriangle {
     public List<List<Integer>> generate(int numRows) {
 
         if (numRows < 0) {

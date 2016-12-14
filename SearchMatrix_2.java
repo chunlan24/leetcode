@@ -1,4 +1,4 @@
-public class Solution {
+public class SearchMatrix_2 {
     public boolean searchMatrix(int[][] matrix, int target) {
         
         int row = matrix.length - 1;

@@ -1,4 +1,4 @@
-public class Solution {
+public class SearchRange_1 {
      public int[] searchRange(int[] A, int target) {
          int[] ret = {-1, -1};
          

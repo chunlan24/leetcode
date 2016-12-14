@@ -1,4 +1,4 @@
-public class Solution {
+public class SearchRotatedSortedArrayII {
     public boolean search(int[] A, int target) {
         
         if (A == null || A.length == 0)
